@@ -1,7 +1,8 @@
 # Hi there! 👋
 
 ![Banner](https://github.com/vimillan/vimillan/assets/67834307/75dae471-c666-4919-b9ab-cea3a1046b18)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/violeta-millan/)
+
+[<img align="center" alt="LinkedIn" width="100px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/violeta-millan/)
 
 ## 🚀 About Me
 - **🌟 Expertise:** UI/UX Design, Frontend Development
