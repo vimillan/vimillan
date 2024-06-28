@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 - **🌟 Expertise:** UI/UX Design, Frontend Development
-- **🎨 Design Tools:** Figma, Adobe XD
+- **🎨 Design Tools:** Figma
 - **💻 Development Skills:** HTML5, CSS3, JavaScript, Vue.js, React.js, TypeScript, Angular CLI, Git
 - **🛠 Backend Knowledge:** Java, SpringBoot, MySQL
 - **📚 Certifications:** Foundations of User Experience (UX) Design by Google
